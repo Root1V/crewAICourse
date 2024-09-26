@@ -1,4 +1,4 @@
-from app.app import App
+from app.customer_support import App
 
 if __name__ == "__main__":
     print(
