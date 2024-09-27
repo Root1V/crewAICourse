@@ -119,6 +119,8 @@ class App:
         # Ejecutamos el crew
         result = crew.kickoff(inputs={"topic": "Artifical General Intelligence"})
 
+        print(f" Resultado:\n {result}")
+
 
 if __name__ == "__main__":
     load_dotenv()
