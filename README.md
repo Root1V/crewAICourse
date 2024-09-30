@@ -1,5 +1,5 @@
 
-Project: CrewAI
+Project: CrewAI Course
 =================
 
 ## Configuración
