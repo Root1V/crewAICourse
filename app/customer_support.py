@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 from app.config import Config
 from crewai import Agent, Task, Crew
-from crewai_tools import SerperDevTool, ScrapeWebsiteTool, WebsiteSearchTool
+from crewai_tools import ScrapeWebsiteTool
 
 class App:
 
